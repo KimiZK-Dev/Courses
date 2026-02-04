@@ -1,0 +1,660 @@
+═══════════════════════════════════════
+   NAPSCHOOL ACCOUNT CHECKER
+═══════════════════════════════════════
+
+[1]:
+   Courses: 4
+   User: Ba***9@gmail.com (Nghiêm Thị Thùy Linh)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[2]:
+   Courses: 4
+   User: Vo***s@gmail.com (Võ Minh Đạt)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[3]:
+   Courses: 5
+   User: ao***3@gmail.com (Vũ Kim Phúc)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[4]:
+   Courses: 4
+   User: du***7@gmail.com (Nguyễn Đức Anh)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[5]:
+   Courses: 4
+   User: fi***0@gmail.com (Phùng Tuấn Kiệt)
+   1. ÔN TẬP HỌC KỲ II - LỚP 10
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-10
+   2. ÔN TẬP HỌC KỲ I - LỚP 10
+       Lessons: 37
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-10
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 1
+       Lessons: 46
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-1
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 2
+       Lessons: 21
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-2
+
+[6]:
+   Courses: 5
+   User: ha***a@gmail.com (Nguyễn Văn Hậu)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[7]:
+   Courses: 4
+   User: ht***0@gmail.com (Nguyễn Thái Hoà)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[8]:
+   Courses: 4
+   User: hu***h@gmail.com (Lỗ Bá Duy Linh)
+   1. ÔN TẬP HỌC KỲ II - LỚP 10
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-10
+   2. ÔN TẬP HỌC KỲ I - LỚP 10
+       Lessons: 37
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-10
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 1
+       Lessons: 46
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-1
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 2
+       Lessons: 21
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-2
+
+[9]:
+   Courses: 4
+   User: hu***4@gmail.com (TH)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[10]:
+   Courses: 4
+   User: kh***8@gmail.com (Nguyễn Khánh Chi)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[11]:
+   Courses: 5
+   User: kh***9@gmail.com (Hoàng Quốc Khánh)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[12]:
+   Courses: 5
+   User: ki***5@gmail.com (Huỳnh Kiên)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[13]:
+   Courses: 5
+   User: le***4@gmail.com (Lê Công Vinh)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[14]:
+   Courses: 6
+   User: ng***8@gmail.com (Nguyễn Hiền Lương)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. LUYỆN THI HSG CẤP TỈNH - LỚP 12
+       Lessons: 1226
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: luyen-thi-hsg-cap-tinh-lop-12
+   5. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   6. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[15]:
+   Courses: 4
+   User: ng***9@gmail.com (thanh ngọc)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[16]:
+   Courses: 6
+   User: ng***0@gmail.com (Nguyễn Lê Hoàng)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. LUYỆN THI HSG CẤP TỈNH - LỚP 12
+       Lessons: 1226
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: luyen-thi-hsg-cap-tinh-lop-12
+   5. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   6. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[17]:
+   Courses: 4
+   User: ng***9@gmail.com (Lê Thái Bảo)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[18]:
+   Courses: 4
+   User: ph***4@gmail.com (Phan Thị Hồng Diên)
+   1. ÔN TẬP HỌC KỲ II - LỚP 10
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-10
+   2. ÔN TẬP HỌC KỲ I - LỚP 10
+       Lessons: 37
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-10
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 1
+       Lessons: 46
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-1
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 2
+       Lessons: 21
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-2
+
+[19]:
+   Courses: 5
+   User: ph***6@gmail.com (Phan Đức Huy)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[20]:
+   Courses: 4
+   User: ph***2@gmail.com (Phùng Hoàng Như Quỳnh)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[21]:
+   Courses: 5
+   User: qu***8@gmail.com (Lê Phan Hải Quân)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[22]:
+   Courses: 4
+   User: st***2@ptnk.edu.vn (Vũ Thành An)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[23]:
+   Courses: 4
+   User: tn***5@gmail.com (Ngọ Đức Thắng)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[24]:
+   Courses: 6
+   User: to***3@gmail.com (Trương chí toàn )
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. LUYỆN THI HSG CẤP TỈNH - LỚP 12
+       Lessons: 1226
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: luyen-thi-hsg-cap-tinh-lop-12
+   5. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   6. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[25]:
+   Courses: 4
+   User: tr***2@gmail.com (Trần Vũ Lâm)
+   1. ÔN TẬP HỌC KỲ II - LỚP 10
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-10
+   2. ÔN TẬP HỌC KỲ I - LỚP 10
+       Lessons: 37
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-10
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 1
+       Lessons: 46
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-1
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 10 - TẬP 2
+       Lessons: 21
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-10-tap-2
+
+[26]:
+   Courses: 4
+   User: tr***4@gmail.com (Trịnh kim Ngân)
+   1. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   2. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   3. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   4. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[27]:
+   Courses: 5
+   User: tx***8@gmail.com (Trần Xuân Trường)
+   1. KHÓA LUYỆN ĐỀ ĐẶC BIỆT 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-dac-biet-2026
+   2. KHÓA VỀ ĐÍCH 2026
+       Lessons: 0
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-ve-dich-2026
+   3. KHÓA LUYỆN ĐỀ BTN MỚI NHẤT NĂM 2026
+       Lessons: 19
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: khoa-luyen-de-btn-moi-nhat-nam-2026
+   4. KIẾN THỨC TRỌNG TÂM 12
+       Lessons: 231
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: kien-thuc-trong-tam-12
+   5. TỔNG ÔN TOÀN DIỆN
+       Lessons: 68
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: tong-on-toan-dien
+
+[28]:
+   Courses: 4
+   User: vi***9@gmail.com (Nguyễn Xuân Quốc Việt)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[29]:
+   Courses: 4
+   User: vo***7@gmail.com (Võ Đình Gia Huy)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
+[30]:
+   Courses: 4
+   User: yj***9@gmail.com (Phạm Thị Khánh Ly)
+   1. ÔN TẬP HỌC KỲ II - LỚP 11
+       Lessons: 2
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-ii-lop-11
+   2. ÔN TẬP HỌC KỲ I - LỚP 11
+       Lessons: 41
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: on-tap-hoc-ky-i-lop-11
+   3. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 2
+       Lessons: 40
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-2
+   4. CHINH PHỤC TOÀN DIỆN HÓA HỌC LỚP 11 - TẬP 1
+       Lessons: 44
+       Teacher: Thầy Nguyễn Anh Phong
+       Slug: chinh-phuc-toan-dien-hoa-hoc-lop-11-tap-1
+
