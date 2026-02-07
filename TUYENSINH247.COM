@@ -1,10 +1,7 @@
-╔══════════════════════════════════════════════════════════╗
-║           TUYENSINH247 ACCOUNTS DETAIL                 ║
-║           (Masked usernames, no passwords)             ║
-╚══════════════════════════════════════════════════════════╝
+TUYENSINH247 ACCOUNTS DETAIL                 
+══════════════════════════════════════════
+Total accounts: 47
 
-Total accounts: 43
-Generated: 20:28:57 3/2/2026
 
 [1] User: mi***8
     Courses: 21
@@ -808,5 +805,38 @@ Generated: 20:28:57 3/2/2026
        Expiry: 31/07/2026
     38. [S1+LIVE] - NỀN TẢNG SGK TOÁN 12 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG - NĂM 2026 - THẦY NGUYỄN CÔNG CHÍNH
        Teacher: Thầy Nguyễn Công Chính
+       Expiry: 31/07/2026
+
+[44] User: da***4
+    Courses: 2
+    1. [S1+LIVE] - NỀN TẢNG SGK HOÁ HỌC 12 - CÁNH DIỀU - THẦY ĐẶNG XUÂN CHẤT - NĂM 2026
+       Teacher: Thầy Đặng Xuân Chất
+       Expiry: 31/07/2026
+    2. [S1+ LIVE] - NỀN TẢNG SGK TOÁN 12 - CÁNH DIỀU - NĂM 2026 - THẦY NGUYỄN THÀNH ĐĂNG
+       Teacher: Thầy Nguyễn Thành Đăng
+       Expiry: 31/07/2026
+
+[45] User: Lo***8
+    Courses: 1
+    1. [S1+LIVE] - HÓA HỌC 11 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG - THẦY PHẠM THANH TÙNG
+       Teacher: Thầy Phạm Thanh Tùng
+       Expiry: 31/07/2026
+
+[46] User: ng***9
+    Courses: 1
+    1. [S1+] - TOÁN 11 (CƠ BẢN & NÂNG CAO) - THẦY NGUYỄN CÔNG CHÍNH
+       Teacher: Thầy Nguyễn Công Chính
+       Expiry: 31/07/2026
+
+[47] User: ng***9
+    Courses: 3
+    1. [S2+] - CHƯƠNG TRÌNH MỚI - LUYỆN THI VÀO 10 MÔN LÍ CHUYÊN - THẦY NGUYỄN THẾ VINH - NĂM 2026
+       Teacher: Thầy Nguyễn Thế Vinh
+       Expiry: 31/07/2026
+    2. [S2] - ÔN THI VÀO 10 MÔN TIẾNG ANH - CÔ NGUYỄN THỊ MAI HƯƠNG - NĂM 2026
+       Teacher: Cô Nguyễn Thị Mai Hương
+       Expiry: 31/07/2026
+    3. [S1+] - TOÁN 9 - NÂNG CAO - CÔ NGUYỄN THỊ YẾN - NĂM 2026
+       Teacher: Cô Nguyễn Thị Yến
        Expiry: 31/07/2026
 
