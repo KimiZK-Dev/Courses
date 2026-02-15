@@ -1,6 +1,7 @@
 MAPSTUDY ACCOUNTS WITH COURSES
-Total accounts with courses: 384
 ═══════════════════════════════════════════════
+Date: 20:50:20 15/2/2026
+Total accounts with courses: 394
 
 [1] User: ki***o
     Courses: 1
@@ -1942,7 +1943,7 @@ Total accounts with courses: 384
         Teachers: Đội ngũ giáo viên Mapstudy (order: 900)
 
 [130] User: Th***2
-    Courses: 2
+    Courses: 3
     1. CÀY LÍ THUYẾT 360 ĐỘ - VẬT LÍ 12
         Grade: Lớp 12
         Price: Free
@@ -1951,6 +1952,10 @@ Total accounts with courses: 384
         Grade: Lớp 12
         Price: Free
         Teachers: Tổ Toán học Mapstudy (order: 1100)
+    3. LẬP TRÌNH TƯ DUY TỪ TRƯỜNG VÀ HẠT NHÂN
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
 
 [131] User: Ph***i
     Courses: 5
@@ -5753,4 +5758,150 @@ Total accounts with courses: 384
         Grade: Lớp 12
         Price: Free
         Teachers: Tổ Vật lý Mapstudy (order: 1200)
+
+[385] User: hi***2
+    Courses: 5
+    1. PHONG TOẢ VẬT LÝ LỚP 11 - TẬP 1
+        Grade: Lớp 11
+        Price: Free
+        Teachers: Tổ Vật lý Mapstudy (order: 1200)
+    2. CÀY LÍ THUYẾT 360 ĐỘ - VẬT LÍ 12
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    3. CÀY LÍ THUYẾT 360 ĐỘ - HÓA HỌC 12
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Nguyễn Anh Phong (order: 150)
+    4. SÁCH TINH HOA LÍ THUYẾT - VẬT LÍ 12 (2026)
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    5. HỌC TỐT HOÁ 12 - SÁCH GIÁO KHOA KẾT NỐI TRI THỨC
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Hóa học Mapstudy (order: 1300)
+
+[386] User: Ho***a
+    Courses: 1
+    1. TỔNG ÔN TOÀN DIỆN 360 ĐỘ - TOÁN 12
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Toán học Mapstudy (order: 1100)
+
+[387] User: hu***7
+    Courses: 1
+    1. LẬP TRÌNH TƯ DUY TỪ TRƯỜNG VÀ HẠT NHÂN
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+
+[388] User: hu***9
+    Courses: 2
+    1. 2K9 XUẤT PHÁT SỚM MÔN VẬT LÝ - LỚP 11
+        Grade: Lớp 11
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    2. 2K9 XUẤT PHÁT SỚM MÔN TOÁN - LỚP 11
+        Grade: Lớp 11
+        Price: Free
+        Teachers: Tổ Toán học Mapstudy (order: 1100)
+
+[389] User: hy***7
+    Courses: 1
+    1. SÁCH 30 ĐỀ MINH HOẠ MÔN VẬT LÝ 2025
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+
+[390] User: Le***8
+    Courses: 4
+    1. KHOÁ LUYỆN THI ĐÁNH GIÁ NĂNG LỰC ĐHQG TP.HCM (V-ACT) - 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Đội ngũ giáo viên Mapstudy (order: 900)
+    2. LUYỆN ĐỀ ĐGNL ĐHQG TP.HCM (VACT) - 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Đội ngũ giáo viên Mapstudy (order: 900)
+    3. SÁCH LUYỆN THI ĐGNL ĐHQG TP.HCM - PHẦN NGÔN NGỮ - VACT 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Đội ngũ giáo viên Mapstudy (order: 900)
+    4. SÁCH LUYỆN THI ĐGNL ĐHQG TP.HCM - PHẦN TOÁN HỌC - VACT 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Đội ngũ giáo viên Mapstudy (order: 900)
+
+[391] User: My***5
+    Courses: 9
+    1. KHÓA E - TỔNG ÔN TRỌNG ĐIỂM MÔN VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    2. KHOÁ O - THỰC CHIẾN LUYỆN ĐỀ VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    3. KHOÁ M - VẬN DỤNG VÀ VẬN DỤNG CAO VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    4. KHOÁ I - CHUYÊN ĐỀ CƠ BẢN MÔN VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    5. KHOÁ O - THỰC CHIẾN LUYỆN ĐỀ MÔN TOÁN NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Toán học Mapstudy (order: 1100)
+    6. KHOÁ M - VẬN DỤNG VÀ VẬN DỤNG CAO MÔN TOÁN NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Toán học Mapstudy (order: 1100)
+    7. KHOÁ E - TỔNG ÔN TRỌNG ĐIỂM MÔN TOÁN NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Toán học Mapstudy (order: 1100)
+    8. KHOÁ I - CHUYÊN ĐỀ CƠ BẢN MÔN TOÁN NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Toán học Mapstudy (order: 1100)
+    9. Học tốt Ngữ Văn 12 - Sách Giáo Khoa Kết Nối Tri Thức
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Ngữ văn Mapstudy (order: 1500)
+
+[392] User: ta***c
+    Courses: 4
+    1. KHOÁ M - VẬN DỤNG VÀ VẬN DỤNG CAO VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    2. KHÓA E - TỔNG ÔN TRỌNG ĐIỂM MÔN VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    3. KHOÁ I - CHUYÊN ĐỀ CƠ BẢN MÔN VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+    4. KHOÁ O - THỰC CHIẾN LUYỆN ĐỀ VẬT LÝ NĂM 2026
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
+
+[393] User: ta***9
+    Courses: 1
+    1. SÁCH 30 ĐỀ MINH HOẠ MÔN TIẾNG ANH 2025
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Tổ Tiếng Anh Mapstudy (order: 1400)
+
+[394] User: to***o
+    Courses: 1
+    1. CÀY LÍ THUYẾT 360 ĐỘ - VẬT LÍ 12
+        Grade: Lớp 12
+        Price: Free
+        Teachers: Thầy Vũ Ngọc Anh (order: 100)
 
