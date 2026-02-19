@@ -3,8 +3,8 @@
 ║           (Masked usernames, no passwords)             ║
 ╚══════════════════════════════════════════════════════════╝
 
-Total accounts: 53
-Generated: 21:00:32 15/2/2026
+Total accounts: 54
+Generated: 21:36:49 19/2/2026
 
 [1] User: mi***8
     Courses: 21
@@ -968,5 +968,12 @@ Generated: 21:00:32 15/2/2026
        Expiry: 31/07/2026
     7. [S1] - TOÁN 5 - CƠ BẢN SGK KẾT NỐI TRI THỨC VỚI CUỘC SỐNG - NĂM 2026 - CÔ ĐINH THỊ SAO MAI
        Teacher: Cô Đinh Thị Sao Mai
+       Expiry: 31/07/2026
+
+[54] User: ng***7
+    Courses: 2
+    1. [S1] - NỀN TẢNG LỊCH SỬ VÀ ĐỊA LÍ 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG - NĂM 2026
+       Expiry: 31/07/2026
+    2. [S1] - NỀN TẢNG KHOA HỌC TỰ NHIÊN 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG - NĂM 2026
        Expiry: 31/07/2026
 
