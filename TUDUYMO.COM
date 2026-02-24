@@ -1,6 +1,6 @@
 TUDUYMO ACCOUNTS WITH COURSES
-═══════════════════════════════════════════════
-Date: 21:31:34 19/2/2026
+===============================================
+Date: 17:40:39 24/2/2026
 Total accounts with courses: 18
 
 [1] User: td***2@tdm.com
@@ -12,7 +12,7 @@ Total accounts with courses: 18
         Progress: 0%
     3. TDMY2026 - Nâng cao và phát triển toàn diện tư duy Toán THPT
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 0%
+        Progress: 13%
     4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
@@ -32,7 +32,7 @@ Total accounts with courses: 18
         Progress: 56%
     4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 80%
+        Progress: 81%
     5. TDPF2026 - Chinh phục toàn diện Vật Lý THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 48%
@@ -42,12 +42,12 @@ Total accounts with courses: 18
 
 [3] User: td***4@tdm.com
     Courses: 5
-    1. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
-        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 0%
-    2. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
+    1. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: null%
+    2. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
+        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
+        Progress: 0%
     3. TDM11Y2026 - Chinh phục nâng cao toàn diện Toán 11 Vip
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
@@ -67,10 +67,10 @@ Total accounts with courses: 18
 
 [5] User: td***3@tdm.com
     Courses: 5
-    1. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
+    1. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
-    2. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
+    2. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
     3. TDM11Y2026 - Chinh phục nâng cao toàn diện Toán 11 Vip
@@ -111,7 +111,7 @@ Total accounts with courses: 18
         Progress: 16%
     3. TDMY2026 - Nâng cao và phát triển toàn diện tư duy Toán THPT
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 18%
+        Progress: 29%
     4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 35%
@@ -119,24 +119,7 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 5%
 
-[8] User: td***7@tdm.com
-    Courses: 5
-    1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
-        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 0%
-    2. TDMT2026 - KSCL và ôn tập học kì Toán Lý 10, 11, 12
-        Progress: 1%
-    3. TDMY2026 - Nâng cao và phát triển toàn diện tư duy Toán THPT
-        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 21%
-    4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
-        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 14%
-    5. TDM11G2026 - Cô đọng kiến thức Toán 11
-        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 0%
-
-[9] User: td***5@tdm.com
+[8] User: td***5@tdm.com
     Courses: 5
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -153,7 +136,7 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
 
-[10] User: td***2@tdm.com
+[9] User: td***2@tdm.com
     Courses: 5
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -170,7 +153,7 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
 
-[11] User: td***7@tdm.com
+[10] User: td***7@tdm.com
     Courses: 5
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -179,25 +162,25 @@ Total accounts with courses: 18
         Progress: 0%
     3. TDMY2026 - Nâng cao và phát triển toàn diện tư duy Toán THPT
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 0%
+        Progress: 2%
     4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 3%
+        Progress: 4%
     5. TDM11G2026 - Cô đọng kiến thức Toán 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
 
-[12] User: td***9@tdm.com
+[11] User: td***9@tdm.com
     Courses: 6
-    1. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
+    1. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: null%
-    2. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
+    2. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: null%
     3. TDM11Y2026 - Chinh phục nâng cao toàn diện Toán 11 Vip
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 0%
+        Progress: 3%
     4. TDMT2026 - KSCL và ôn tập học kì Toán Lý 10, 11, 12
         Progress: null%
     5. TDM10F2026 - Chinh phục toàn diện Toán lớp 10
@@ -207,24 +190,24 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: null%
 
-[13] User: td***6@tdm.com
+[12] User: td***6@tdm.com
     Courses: 5
-    1. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
-        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 17%
-    2. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
+    1. TDP11G2027_Chinh phục Vật Lý HK2 Lớp 11
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
+    2. TDM11X2026 - Chinh phục Bản chất - Nền tảng - Vận dụng Toán 11
+        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
+        Progress: 16%
     3. TDM11Y2026 - Chinh phục nâng cao toàn diện Toán 11 Vip
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 7%
+        Progress: 6%
     4. TDMT2026 - KSCL và ôn tập học kì Toán Lý 10, 11, 12
         Progress: 1%
     5. TDM10G2026 - Cô đọng các kiến thức Toán 10 cần ôn lại
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 100%
 
-[14] User: td***3@tdm.com
+[13] User: td***3@tdm.com
     Courses: 5
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -241,7 +224,7 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 100%
 
-[15] User: td***9@tdm.com
+[14] User: td***9@tdm.com
     Courses: 5
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -258,7 +241,7 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: null%
 
-[16] User: td***0@tdm.com
+[15] User: td***0@tdm.com
     Courses: 6
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -270,7 +253,7 @@ Total accounts with courses: 18
         Progress: 0%
     4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 7%
+        Progress: 8%
     5. TDPF2026 - Chinh phục toàn diện Vật Lý THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 4%
@@ -278,7 +261,7 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
 
-[17] User: td***8@tdm.com
+[16] User: td***8@tdm.com
     Courses: 7
     1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
@@ -290,7 +273,7 @@ Total accounts with courses: 18
         Progress: 0%
     4. TDMY2026 - Nâng cao và phát triển toàn diện tư duy Toán THPT
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
-        Progress: 8%
+        Progress: 13%
     5. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
@@ -301,11 +284,28 @@ Total accounts with courses: 18
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
 
-[18] User: td***6@tdm.com
+[17] User: td***6@tdm.com
     Courses: 2
     1. TDMVIP2026 - Chinh phục THXS toàn diện
         Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 32%
     2. TDMT2026 - KSCL và ôn tập học kì Toán Lý 10, 11, 12
+        Progress: 0%
+
+[18] User: td***8@tdm.com
+    Courses: 5
+    1. TDMZ2026 - Tinh hoa thực chiến và tổng ôn Toán
+        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
+        Progress: null%
+    2. TDMT2026 - KSCL và ôn tập học kì Toán Lý 10, 11, 12
+        Progress: 0%
+    3. TDMY2026 - Nâng cao và phát triển toàn diện tư duy Toán THPT
+        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
+        Progress: 0%
+    4. TDMX2026 - Bản chất - Nền tảng - Vận dụng Toán THPT2026
+        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
+        Progress: 28%
+    5. TDM11G2026 - Cô đọng kiến thức Toán 11
+        Teacher: Thầy Nguyễn Đăng Ái - Bản chất - Tư duy - Tốc độ - Kinh nghiệm
         Progress: 0%
 
